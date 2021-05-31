@@ -58,5 +58,6 @@ class MainActivity : Activity() {
         }
     }
 
+
     private fun hasGps(): Boolean = packageManager.hasSystemFeature(PackageManager.FEATURE_LOCATION_GPS)
 }
