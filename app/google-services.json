@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889112635549",
+    "project_id": "wear-spielwiese",
+    "storage_bucket": "wear-spielwiese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889112635549:android:5be2352ed19e89491c0c74",
+        "android_client_info": {
+          "package_name": "de.lasergame.wear_spielwiese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889112635549-4uc39ulppg7a67tsb94bgmnt0a957odl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0FrIZg_8XBYUce0TFndCt-NLx1E-uws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889112635549-4uc39ulppg7a67tsb94bgmnt0a957odl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
